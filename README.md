@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on CUI Timetable app for iOS (FYP)<br>I'm currently learning Flutter and Dart<br>Ask me anything about development 
+Hi 👋, I'm **Syed Muhammad Nawaz Shah** A passionate Flutter developer from Pakistan
+
+Currently working on multiple Flutter projects. 
+
 
 
 ## 🌐 Socials:
